@@ -1,0 +1,10 @@
+Sent = " hii i am adarsh pawade kauthekar a computer engg student"
+word = Sent.split()
+# c=len(Sent)
+# d=len(Sent.replace(" ",""))
+# count=len(word)
+# print("Charss in sentence:",c)
+# print("Chars exact: ",d)
+# print("Words in sentence:",count)
+print(word.capitalize)
+print()
